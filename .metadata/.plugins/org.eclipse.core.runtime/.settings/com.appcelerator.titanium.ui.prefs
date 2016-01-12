@@ -1,0 +1,7 @@
+=run
+LAST_LAUNCH_TIMESTAMP=1452593305937
+com.2eskimos.github.sample\:launchMode=run
+com.2eskimos.github.sample\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.67F1FF7F-57F5-4B99-AAFE-85F4C05029F3
+eclipse.preferences.version=1
+preference.show.console.onError=true
+preference.studio.perspective.version=103
